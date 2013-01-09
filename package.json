@@ -1,0 +1,21 @@
+{
+  "name": "tubalr-dj",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "John Ledbetter <john@throttle.io>",
+  "description": "simple websocket server for passing notifications around.",
+  "scripts": {
+    "start": "node ./lib/tubalr-dj"
+  },
+  "main": "./lib/tubalr-dj",
+  "repository": {
+    "type": "git",
+    "url": "git://throttle.io/tubalr-dj"
+  },
+  "dependencies" : {
+    "socket.io": ">=0.9.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
