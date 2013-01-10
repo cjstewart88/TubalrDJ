@@ -10,7 +10,7 @@
   "main": "./lib/tubalr-dj",
   "repository": {
     "type": "git",
-    "url": "git://throttle.io/tubalr-dj"
+    "url": "git://github.com/cjstewart88/TubalrDJ.git"
   },
   "dependencies" : {
     "socket.io": ">=0.9.x"
