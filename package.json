@@ -13,7 +13,8 @@
     "url": "git://github.com/cjstewart88/TubalrDJ.git"
   },
   "dependencies" : {
-    "socket.io": ">=0.9.x"
+    "socket.io": ">=0.9.x",
+    "nlogger": ">=0.4.x"
   },
   "engines": {
     "node": ">=0.8"
