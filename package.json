@@ -5,9 +5,9 @@
   "author": "John Ledbetter <john@throttle.io>",
   "description": "simple websocket server for passing notifications around.",
   "scripts": {
-    "start": "node ./lib/tubalr-dj"
+    "start": "node ./bin/tubalr-dj"
   },
-  "main": "./lib/tubalr-dj",
+  "main": "./lib/server",
   "repository": {
     "type": "git",
     "url": "git://github.com/cjstewart88/TubalrDJ.git"
